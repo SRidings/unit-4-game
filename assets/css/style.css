@@ -1,0 +1,77 @@
+body{
+    font-weight: bold;
+    color: white;
+    background: url(../images/back.png);
+}
+
+div, ul{
+    display: inline-block;
+    margin: 10px 5px;
+}
+#title{
+    background: #CA7126;
+    color: white;
+    font-size: 30px;
+    padding: 20px 0;
+}
+
+p{
+    background: #FBE7CD;
+    color: #4CA631;
+    width: 430px;
+    padding: 20px 0 50px 0;
+    margin: 10px 5px;
+}
+
+
+#results{
+    background: #4AFDFE;
+    color: black;
+    float: left;
+    height: 100px;
+    width: auto;
+    padding: 10px;
+}
+
+#ranNumber{
+    background: #5BC980;
+    color: #271f35;
+    height: 100px;
+    width: 250px;
+    font-size: 30px;
+    padding: 10px;
+    float: left;
+}
+
+#totalText{
+    background: #2BA393;
+    padding: 10px;
+    width: 250px;
+}
+
+#totalScore{
+    background: #2BA393;
+    padding: 10px;
+    width: 250px;
+    height: 100px;
+    font-size: 30px;
+}
+
+#crystals{
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    position: relative;
+    display: inline-block;
+}
+
+li{
+    float: left;
+    margin-right: 5px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
