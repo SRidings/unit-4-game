@@ -20,6 +20,7 @@
       The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the           game._
 
 **Game design notes**
+
 **1.**_The random number shown at the start of the game should be between 19 - 120._
 
 **2.**_Each crystal should have a random hidden value between 1 - 12._
